@@ -2,7 +2,7 @@
 
 # 🚀 Musawenkosi Nyawo
 
-**AI Engineer | Agent Developer | Data Scientist**
+**Agentic AI Engineer | Agent Multi-System | Azure
 
 [![GitHub followers](https://img.shields.io/github/followers/Musavenkosi-8?label=Follow&style=social)](https://github.com/Musavenkosi-8)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musawenkosi-nyawo-89688a9b)
@@ -17,10 +17,11 @@
 ## 🎯 What I Do
 
 ```text
-🤖 AI Agent Development    → CrewAI, Multi-Agent Orchestration
+
+🤖 AI Agent Development    → CrewAI, Multi-Agent Orchestration, LangGraph, AutoGen, MCP, RAG, AZURE
 🧠 LLM Engineering         → GPT-4, Prompt Engineering, RAG
 📊 Data Science            → ML, Classification, Time Series
-🛠️ MLOps & Deployment     → Streamlit, Flask, API Design
+🛠️ MLOps & Deployment     → Streamlit, Flask, API Design,  FastAPI
 
 🔥 Featured: AI Agent Projects
 
