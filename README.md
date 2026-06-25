@@ -99,14 +99,7 @@ I'm open to:
 </div>
 ```
 
----
-
-📝 LinkedIn Post (Copy-Paste Ready)
-
-```
-🚀 I'm officially rebranding as an **AI Engineer | Agent Developer**
-
-After deep-diving into CrewAI and multi-agent orchestration, I've built:
+ deep-diving into CrewAI and multi-agent orchestration, I've built:
 
 🛡️ **Procurement Auditor AI**
 → 4 specialized agents working together
