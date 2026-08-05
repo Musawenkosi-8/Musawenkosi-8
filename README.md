@@ -1,136 +1,147 @@
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
+![LangChain](https://img.shields.io/badge/LangChain-Agentic-green)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions)
 
-# 🚀 Musawenkosi Nyawo
 
-**Agentic AI Engineer | Agent Multi-System | Azure
 
-[![GitHub followers](https://img.shields.io/github/followers/Musavenkosi-8?label=Follow&style=social)](https://github.com/Musavenkosi-8)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musawenkosi-nyawo-89688a9b)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:phiwayinkosinyawo@gmail.com)
+# Hi there, I'm Musawenkosi Nyawo 👋
 
-*Building autonomous AI agents that solve real-world problems*
+## Agentic AI Engineer | Cloud AI Engineer | Python Developer
 
-</div>
+I build production-ready AI applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and autonomous AI agents.
 
----
-
-## 🎯 What I Do
-
-```text
-
-🤖 AI Agent Development    → CrewAI, Multi-Agent Orchestration, LangGraph, AutoGen, MCP, RAG, AZURE
-🧠 LLM Engineering         → GPT-4, Prompt Engineering, RAG
-📊 Data Science            → ML, Classification, Time Series
-🛠️ MLOps & Deployment     → Streamlit, Flask, API Design,  FastAPI
-
-🔥 Featured: AI Agent Projects
-
-Project Stack Impact
-🛡️ Procurement Auditor AI CrewAI, GPT-4, Python Multi-agent system automating procurement audits → 80% faster, 99% compliance coverage
-🏥 Medical Diagnosis Agents Multi-agent LLM system AI-powered clinical decision support
-🌾 Crop Classification Agent Sentinel-2, GEE, ML Satellite-based mapping of cocoa/palm/rubber crops
+My focus is designing AI systems that are scalable, containerized, cloud-native, and ready for real-world deployment.
 
 ---
 
-📦 Other Notable Projects
+## 🚀 What I'm Currently Working On
 
-<details>
-<summary>Click to expand 📚</summary>
-
-Project Description
-Breast Cancer Diagnosis ML model for tumor classification (benign/malignant)
-Heart Disease Detection Predictive model using Cleveland dataset
-Wine Quality Pipeline Regression/classification on physicochemical data
-Titanic Survival Analysis Feature engineering + classification
-Healthcare Mental Health Burnout & retention analysis for healthcare workers
-
-</details>
+- 🤖 Agentic AI Research Assistant
+- 🧠 Retrieval-Augmented Generation (RAG) Systems
+- 🔄 Multi-Agent AI Workflows with LangGraph
+- ☁️ Azure AI & Azure Container Apps
+- 🐳 Docker & Containerized AI Applications
+- ⚙️ GitHub Actions CI/CD Pipelines
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-```python
-ai_agent_stack = {
-    "Orchestration": ["CrewAI", "LangChain"],
-    "LLMs": ["GPT-4", "Azure OpenAI"],
-    "ML/DS": ["Python", "Scikit-learn", "XGBoost", "TensorFlow", "Keras"],
-    "Data": ["Pandas", "NumPy", "SQL", "Excel"],
-    "Deployment": ["Streamlit", "Flask", "FastAPI"],
-    "Geospatial": ["Sentinel-2", "Google Earth Engine"],
-    "Visualization": ["Matplotlib", "Power BI"]
-}
-```
+### AI & LLM Engineering
 
----
+- LangChain
+- LangGraph
+- Groq
+- Hugging Face
+- FAISS
+- Sentence Transformers
 
-📈 GitHub Analytics
+### Backend Development
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Musavenkosi-8&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musavenkosi-8&layout=compact&theme=radical"/>
-</div>
+- Python
+- FastAPI
+- Pydantic
+- REST APIs
+- Uvicorn
 
----
+### Frontend
 
-🎯 Currently Focused On
+- Streamlit
 
-· 🚀 Procurement Auditor AI – Multi-agent system for enterprise audits
-· 🤖 Agentic RAG – Knowledge-augmented AI agents
-· 📝 AI Engineering content – Sharing what I build
+### Cloud
 
----
+- Microsoft Azure
+- Azure Container Apps
+- Azure Container Registry
+- Azure AI Services
 
-📫 Let's Build Together
+### DevOps
 
-I'm open to:
-
-· 🔹 AI Engineer / Agent Developer roles
-· 🔹 Freelance agent-based automation projects
-· 🔹 Collaborations on multi-agent systems
-
-📧 Email: phiwayinkosinyawo@gmail.com
-💼 LinkedIn: linkedin.com/in/musawenkosi-nyawo-89688a9b
+- Docker
+- Docker Compose
+- GitHub Actions
+- uv
+- Git
 
 ---
 
-<div align="center">
-  <i>⚡ "Building agents, not just models"</i>
-</div>
-```
+## 📌 Featured Projects
 
- deep-diving into CrewAI and multi-agent orchestration, I've built:
+### 🤖 Agentic AI Research Assistant
 
-🛡️ **Procurement Auditor AI**
-→ 4 specialized agents working together
-→ 80% reduction in manual audit time
-→ 99% compliance rule coverage
-→ Real-time vendor risk scoring
+A production-ready RAG application built with:
 
-**Tech stack:** CrewAI | GPT-4 | Python | Multi-agent RAG
+- FastAPI
+- Streamlit
+- LangChain
+- Groq LLM
+- FAISS
+- Docker
+- Azure Container Apps
 
-I'm now looking for:
-✅ AI Engineer roles
-✅ Agent Developer positions
-✅ Projects involving autonomous agent systems
+**Highlights**
 
-Check out my GitHub profile 👇
-[github.com/Musavenkosi-8]
-
-#AIEngineer #AgentDeveloper #CrewAI #MultiAgentSystems #OpenToWork
-```
+- PDF ingestion
+- Semantic search
+- Context-aware responses
+- REST API
+- Interactive frontend
+- Dockerized deployment
+- Cloud deployment on Azure
 
 ---
 
-📧 Quick Email Signature (For applying to jobs)
+### 🧠 AI Engineering Portfolio
 
-```html
+A growing collection of production-focused AI projects including:
+
+- Agentic AI
+- RAG Systems
+- AI APIs
+- Cloud Deployments
+- AI Automation
+- DevOps for AI
+
 ---
-Musawenkosi Nyawo
-AI Engineer | Agent Developer
-📧 phiwayinkosinyawo@gmail.com
-🔗 linkedin.com/in/musawenkosi-nyawo-89688a9b
-🐙 github.com/Musavenkosi-8
-🛡️ Featured: Procurement Auditor AI (CrewAI multi-agent system)
+
+## 📚 Currently Learning
+
+- Advanced LangGraph
+- Multi-Agent Systems
+- Azure AI Foundry
+- AI Observability
+- Kubernetes for AI Workloads
+- Production AI Architecture
+
 ---
-```
+
+## 🎯 2026 Goals
+
+- ✅ Build production-ready AI systems
+- ✅ Deploy AI applications to Azure
+- ✅ Master Agentic AI Engineering
+- ✅ Build enterprise-grade RAG systems
+- 🔄 Learn Kubernetes
+- 🔄 Deploy scalable AI microservices
+- 🔄 Contribute to open-source AI projects
+
+---
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musawenkosi-8&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musawenkosi-8&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/Musawenkosi-8
+- LinkedIn: https://www.linkedin.com/in/musawenkosi-nyawo-89688a9b
+
+---
+
+> *Building intelligent systems that solve real-world problems through Agentic AI, cloud computing, and modern software engineering.*
